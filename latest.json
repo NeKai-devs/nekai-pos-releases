@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "Release v1.0.15",
-  "pub_date": "2026-10-07T22:04:19Z",
+  "version": "1.0.16",
+  "notes": "Release v1.0.16",
+  "pub_date": "2026-10-09T04:05:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjBhQ292S1BYNnBTQmd5bHN0U2RYZEpBdXByZE42K1VWQ0dwWnR5ZXo5bTNNdmdaTFNJbnpCb0h2Y0s0Q3BUZXJOU0R6Z21wZ0VRSzRMZUNMaTlBR2ZLNDdoNzV6eGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzY2NDQ1CWZpbGU6S2FrYXdGbGFzaF8xLjAuMTVfeDY0LXNldHVwLmV4ZQpJenJPNkF5SHY3VTMrRnErZTdENEpDT1hRNDI4WVZidGY0RlNqWEdwa0ZkV3kvSTlHTTkvZjVNYUQwd3JPcGlkV1VVdS9XOFJ3VGt6YTdlRGc0bXNCQT09Cg==",
-      "url": "https://github.com/NeKai-devs/nekai-pos-releases/releases/download/v1.0.15/KakawFlash_1.0.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURjBhQ292S1BYNnFsTG43UnhUS1lXUXRSYjJoSndjSGtHUXFnbDRZQW80NzZQbkdDMVMyZVgrVmhTZ2V2QUp0WGlNNG12dlZ0dGI2WnZMNjhlNjREZStaNXRVWEtqSGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTE4NTE3CWZpbGU6S2FrYXdGbGFzaF8xLjAuMTZfeDY0LXNldHVwLmV4ZQpaWVF0OGxoOWYwcW1MQ1B5TFZqbmFjTVEyUTI2MU5nSERLR3hFd1JWcDBpSE1HQ1RVU1BST0IySmpBTzd2NUZRK0M3azYwOVlRWCtTRGFaNVhzWVJCUT09Cg==",
+      "url": "https://github.com/NeKai-devs/nekai-pos-releases/releases/download/v1.0.16/KakawFlash_1.0.16_x64-setup.exe"
     }
   }
 }
